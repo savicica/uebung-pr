@@ -1,1 +1,2 @@
 # uebung-pr
+readme repariert
